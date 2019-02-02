@@ -1,0 +1,10 @@
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\b\Elevator\bin\Debug\Elevator.exe.config
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\b\Elevator\bin\Debug\Elevator.exe
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorApp\Debug\ElevatorApp.csprojAssemblyReference.cache
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorApp\Debug\Elevator.exe.config
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorApp\Debug\ElevatorApp.Form1.resources
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorApp\Debug\Elevator.Properties.Resources.resources
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorApp\Debug\ElevatorApp.csproj.GenerateResource.cache
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorApp\Debug\ElevatorApp.csproj.CoreCompileInputs.cache
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorApp\Debug\ElevatorApp.csproj.CopyComplete
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorApp\Debug\Elevator.exe

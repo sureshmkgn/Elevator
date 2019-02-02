@@ -1,0 +1,9 @@
+C:\Europhins\Elevator\Elevator.Business\bin\Debug\netstandard2.0\ElevatorProj.Business.deps.json
+C:\Europhins\Elevator\Elevator.Business\bin\Debug\netstandard2.0\ElevatorProj.Business.dll
+C:\Europhins\Elevator\Elevator.Business\bin\Debug\netstandard2.0\ElevatorProj.Business.pdb
+C:\Europhins\Elevator\Elevator.Business\obj\Debug\netstandard2.0\ElevatorProj.Business.csproj.CoreCompileInputs.cache
+C:\Europhins\Elevator\Elevator.Business\obj\Debug\netstandard2.0\ElevatorProj.Business.AssemblyInfoInputs.cache
+C:\Europhins\Elevator\Elevator.Business\obj\Debug\netstandard2.0\ElevatorProj.Business.AssemblyInfo.cs
+C:\Europhins\Elevator\Elevator.Business\obj\Debug\netstandard2.0\ElevatorProj.Business.dll
+C:\Europhins\Elevator\Elevator.Business\obj\Debug\netstandard2.0\ElevatorProj.Business.pdb
+C:\Europhins\Elevator\Elevator.Business\obj\Debug\netstandard2.0\ElevatorProj.Business.csprojAssemblyReference.cache

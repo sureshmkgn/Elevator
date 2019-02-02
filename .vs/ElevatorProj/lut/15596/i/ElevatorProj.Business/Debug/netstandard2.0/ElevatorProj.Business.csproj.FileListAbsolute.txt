@@ -1,0 +1,8 @@
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\b\ElevatorProj.Business\Debug\netstandard2.0\ElevatorProj.Business.deps.json
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\b\ElevatorProj.Business\Debug\netstandard2.0\ElevatorProj.Business.dll
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorProj.Business\Debug\netstandard2.0\ElevatorProj.Business.csprojAssemblyReference.cache
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorProj.Business\Debug\netstandard2.0\ElevatorProj.Business.csproj.CoreCompileInputs.cache
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorProj.Business\Debug\netstandard2.0\ElevatorProj.Business.AssemblyInfoInputs.cache
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorProj.Business\Debug\netstandard2.0\ElevatorProj.Business.AssemblyInfo.cs
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorProj.Business\Debug\netstandard2.0\ElevatorProj.Business.csproj.CopyComplete
+C:\Europhins\Elevator\.vs\ElevatorProj\lut\0\i\ElevatorProj.Business\Debug\netstandard2.0\ElevatorProj.Business.dll
